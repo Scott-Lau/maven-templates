@@ -13,8 +13,10 @@ To be continued...
 
 License
 -------
-This code is under the [MIT license][license].
+The project is released under the MIT License. The [MIT license][license] is registered with and approved by the 
+[Open Source Initiative][osi].
 
 
 [home]: https://github.com/Scott-Lau/maven-templates
 [license]: https://opensource.org/licenses/MIT
+[osi]: https://opensource.org/
