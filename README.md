@@ -2,7 +2,7 @@
 Maven Templates
 ===============
 
-[![MIT License](https://img.shields.io/github/license/scott-lau/maven-templates)][license]
+[![MIT License](https://img.shields.io/github/license/Scott-Lau/maven-templates)][license]
 
 This is a template project for Java, using maven.
 
